@@ -1,3 +1,4 @@
 - Sarcina 1: Initializează repo local
 - Sarcina 2: Creează branch și modifică fișiere
 - Sarcina 3: Simulează conflict și rezolvă-l
+- Sarcina 4: Creează PR pe GitHub
